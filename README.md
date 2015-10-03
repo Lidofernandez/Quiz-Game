@@ -1,2 +1,2 @@
 # Quiz-Game
-Quiza Game based on Object oriented JavaScript
+Quiz Game based on Object oriented JavaScript
